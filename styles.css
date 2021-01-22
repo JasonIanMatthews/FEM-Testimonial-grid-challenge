@@ -37,7 +37,7 @@ body {
 
 .card {
 	border-radius: 11px;
-	padding: 2rem 3rem;
+	padding: 2rem 1.7rem;
 	-webkit-box-shadow: 5px 5px 17px -6px #8C8C8C;
 	box-shadow: 5px 5px 17px -6px #8C8C8C;
 }
@@ -57,7 +57,7 @@ img {
 h1 {
 	font-size: 1.5rem;
 	font-weight: 600;
-	padding-bottom: .5rem
+	padding-bottom: .5rem;
 }
 
 h2 {
